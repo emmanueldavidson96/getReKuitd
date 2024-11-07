@@ -60,9 +60,9 @@ function Home() {
         </div>
         <div className="buttons">
             <button className='first'>
-             <Link to = '/assesment'>start your job search</Link> </button>
+             <Link to = '/login'>start your job search</Link> </button>
 
-            <button className='secondd'> <Link to = '/assesment'>free cv review</Link> </button>
+            <button className='secondd'> <Link to = '/login'>free cv review</Link> </button>
         </div>
         </div>
         </div>
